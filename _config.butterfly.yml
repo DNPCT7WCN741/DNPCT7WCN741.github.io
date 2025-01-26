@@ -11,7 +11,7 @@
 
 nav:
   # Navigation bar logo image
-  logo: tas.png
+  logo: 
   display_title: true
   # Whether to fix navigation bar
   fixed: false
@@ -28,7 +28,7 @@ menu:
 code_blocks:
   # Code block theme: darker / pale night / light / ocean / false
   theme: darker
-  macStyle: false
+  macStyle: true
   # Code block height limit (unit: px)
   height_limit: false
   word_wrap: false
@@ -54,7 +54,7 @@ social:
 favicon: /img/favicon.png
 
 avatar:
-  img: /img/butterfly-icon.png
+  img: tas.png
   effect: false
 
 # Disable all banner images
