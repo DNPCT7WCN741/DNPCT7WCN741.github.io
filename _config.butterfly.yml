@@ -54,7 +54,7 @@ social:
 favicon: /img/favicon.png
 
 avatar:
-  img: tas.png
+  img: /images/tas.png
   effect: false
 
 # Disable all banner images
