@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo Template
+title: Tashkent的博客
 subtitle: ''
 description: ''
 keywords:
-author: JiJi
-language: en
+author: Tashkent
+language: CN EN
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://std.ac/hexo-template
+url: https://DNPCT7WCN741.github.io
 permalink: :title/
 permalink_defaults:
 pretty_urls:
@@ -104,4 +104,3 @@ theme: landscape
 deploy:
   type: ''
 
-root: /hexo-template
