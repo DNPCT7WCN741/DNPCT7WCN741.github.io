@@ -218,10 +218,12 @@ reward:
 # Post edit
 # Easily browse and edit blog source code online.
 post_edit:
-  enable: false
+  enable: true
   # url: https://github.com/user-name/repo-name/edit/branch-name/subdirectory-name/
   # For example: https://github.com/jerryc127/butterfly.js.org/edit/main/source/
-  url:
+  url:https://github.com/DNPCT7WCN741/DNPCT7WCN741.github.io/tree/main/source/
+
+  #做出修改 221行修改为true 224行加入个人URL
 
 # Related Articles
 related_post:
