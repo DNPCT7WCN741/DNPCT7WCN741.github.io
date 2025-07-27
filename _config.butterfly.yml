@@ -284,7 +284,7 @@ aside:
     button:
       enable: true
       icon: fab fa-github
-      text: Follow Me
+      text: Follow Me at Github 
       link: https://github.com/DNPCT7WCN741/
   card_announcement:
     enable: true
